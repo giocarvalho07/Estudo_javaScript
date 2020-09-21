@@ -3,7 +3,7 @@
 
 # PortifolioEstudos_JavaScript
 
-![jsLogo](https://user-images.githubusercontent.com/52415453/93727490-c1e40f80-fb91-11ea-9081-01ac4df2c781.png width: 100px)
+![jsLogo](https://user-images.githubusercontent.com/52415453/93727490-c1e40f80-fb91-11ea-9081-01ac4df2c781.png)
 
 <h1>Projeto de estruturação de estudos em javaScript </h1>
 
