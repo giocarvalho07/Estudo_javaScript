@@ -1,0 +1,43 @@
+
+.darkMode{
+    background-color: black;
+    color: #fff;
+}
+
+.azul{
+    background-color: blue;
+    color: #fff;
+}
+
+.vermelho{
+    background-color: red;
+    color: #fff;
+}
+
+.verde{
+    background-color:green;
+    color: #000;
+}
+
+#telefone{
+    display: none;
+}
+
+.menuEscuro{
+    background-color: #2d2d2d;
+    color: #f5f6fa;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menuAzul{
+    background-color: blue;
+}
+
+.menuCinza{
+    background-color: gray;
+}

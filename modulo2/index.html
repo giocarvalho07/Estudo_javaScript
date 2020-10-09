@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body id="body">
+    
+    <h1 id="titulo" onmouseover="console.log('passou')"> bem vindo </h1>
+
+    <input onkeyup="digitou(event)" id="campo"
+     name="usuario" type="text" value="name" >
+
+    <h2 id="bacon"> sou um bacon </h2>
+
+
+    <button onclick="this.innerHTML='aiaia'">
+        clique aqui
+    </button>
+
+
+    <div id="telefone"> 11961616161 </div>
+    <button onclick="mostrarTelefone(this)" >
+        mostrar o telefone
+    </button>
+
+    <button onclick="darkMode()"> Dark Mode</button>
+    <button onclick="normalMode()"> Normal Mode</button>
+
+
+    <button onclick="azul()" >azul</button>
+    <button onclick="vermelho()" >verde</button>
+    <button onclick="verde()" >vermelho</button>
+
+
+    
+    <script src="script.js"></script>
+</body>
+</html>
