@@ -172,3 +172,19 @@ function modoWhite() {
     document.getElementById('header')
     .classList.add('menuAzul')
 }
+
+
+document.querySelector('ol.lista');
+document.querySelector('#titulos')
+    .innerHTML = 'fala receitas';
+    // apenas elementos 
+
+document.querySelectorAll('li');
+
+let listaLi = document.querySelectorAll('li');
+// Array de elementos
+
+
+for(let i in listaLi) {
+    listaLi[i].style.color = 'red';
+    }
