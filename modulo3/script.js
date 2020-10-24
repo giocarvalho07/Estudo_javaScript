@@ -442,15 +442,6 @@ let resu = lista2
 console.log(resu)
 
 
-
-
-
-
-
-
-
-
-
 let lista = [
     {
         id: 1,
